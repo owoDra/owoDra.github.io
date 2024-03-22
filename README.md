@@ -1,1 +1,1 @@
-[BladeEdge](https://owodra.github.io/BladeEdge/PrivacyPolicy.md)
+[BladeEdge](https://owodra.github.io/BladeEdge/PrivacyPolicy.html)
